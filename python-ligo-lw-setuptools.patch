@@ -1,0 +1,8 @@
+--- python-ligo-lw-1.8.3/setup.py.orig	2022-07-29 11:29:54.999962300 +0200
++++ python-ligo-lw-1.8.3/setup.py	2023-01-22 20:04:56.002601407 +0100
+@@ -1,4 +1,4 @@
+-from distutils.core import setup, Extension
++from setuptools import setup, Extension
+ 
+ 
+ __version__ = "1.8.3"
