@@ -6,13 +6,13 @@
 
 Summary:	Python LIGO Light-Weight XML I/O Library
 Summary(pl.UTF-8):	Pythonowa lekka biblioteka we/wy LILO Light-Weight XML
-Name:		python-ligo-lw
+Name:		python3-ligolw
 Version:	1.8.3
 Release:	3
 License:	GPL v2+
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/ligo-lw/
-Source0:	https://files.pythonhosted.org/packages/source/p/python-ligo-lw/%{name}-%{version}.tar.gz
+Source0:	https://files.pythonhosted.org/packages/source/i/igwn-ligolw/gwn-ligolw-%{version}.tar.gz
 # Source0-md5:	ce0192d292fe666c705a3cf4e8bfc4f3
 Patch0:		%{name}-setuptools.patch
 URL:		https://pypi.org/project/ligo-lw/
